@@ -8,10 +8,10 @@ Help us to make the best implementation with respect of Domain Driven Design and
 - Tweet something with the hashtag **#AccorTechHubBTTF**
 - Read the Marty's timelines
 - Fork me!
-- Send a pull request before 2019-05-17T14:00:00.0000000+02:00
+- Send a pull request before _2019-05-17T14:00:00+02:00_
 - Your script should return the list of periods when Marty meet himself.
 - If you post the most beautiful, clean, DDD, FP code you win the Scott Wlaschin's book : [Domain Modeling Made Functional](https://pragprog.com/book/swdddf/domain-modeling-made-functional)
-- We will keep you posted on twitter an give the name of the winner before 2019-05-17T17:00:00.0000000+02:00
+- We will keep you posted on twitter an give the name of the winner before _2019-05-17T17:00:00+02:00_
 
 # Marty's timelines
 Here is (not accurate) timelines of of 1985's Marty and 2015's Marty : 
