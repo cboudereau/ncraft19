@@ -2,7 +2,7 @@
 
 Help us to make the best implementation with respect of Domain Driven Design and Functional programming to find out when did Marty meet himself ?
 
-![BTTF](https://raw.githubusercontent.com/cboudereau/ncrafts19/master/1955_2.png "BTTF")
+![BTTF](https://raw.githubusercontent.com/cboudereau/ncrafts19/master/1955.png "BTTF")
 
 # How to participate ?
 - Tweet something with the hashtag #AccorTechHubBTTF
