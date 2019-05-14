@@ -27,7 +27,7 @@ Here is (not accurate) timelines of of 1985's Marty and 2015's Marty :
 ## Timeline 2' where 2015 Marty is alive
 - 2015-01-01T00:00:00Z -> 2016-01-01T00:00:00Z
 
-## Timeline 3 where 1985 Marty went in the farwest!
+## Timeline 3 where 1985 Marty went in the far west!
 - 1955-11-12T17:00:00Z -> 1955-11-12T23:30:00Z
 - 1885-10-21T10:00:00Z -> 1885-10-22T23:00:00Z
 - 2015-10-22T15:05:00Z -> 2015-10-22T20:00:00Z
