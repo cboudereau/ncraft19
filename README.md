@@ -2,7 +2,7 @@
 
 Help us to make the best implementation with respect of Domain Driven Design and Functional programming to find out when did Marty meet himself ?
 
-
+![BTTF](https://raw.githubusercontent.com/cboudereau/ncrafts19/master/1955_2.png "BTTF")
 
 # How to participate ?
 - Tweet something with the hashtag #AccorTechHubBTTF
@@ -11,7 +11,7 @@ Help us to make the best implementation with respect of Domain Driven Design and
 - Send a pull request before 2019-05-17T14:00:00.0000000+02:00
 - Your script should return the list of periods when Marty meet himself.
 - If you post the most beautiful, clean, DDD, FP code you win the Scott Wlaschin's book : [Domain Modeling Made Functional](https://pragprog.com/book/swdddf/domain-modeling-made-functional)
-- We keep you posted on twitter an give the name of the winner before 2019-05-17T17:00:00.0000000+02:00
+- We will keep you posted on twitter an give the name of the winner before 2019-05-17T17:00:00.0000000+02:00
 
 # Marty's timelines
 Here is (not accurate) timelines of of 1985's Marty and 2015's Marty : 
