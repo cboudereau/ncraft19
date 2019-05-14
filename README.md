@@ -7,7 +7,8 @@ Help us to make the best implementation with respect of Domain Driven Design and
 - Read the Marty's timelines
 - Fork me!
 - Send a pull request before 2019-05-17T14:00:00.0000000+02:00
-- If you post the most beautiful, clean, DDD, FP code you win the Scott Wlashin's book : (Domain Modeling Made Functional)[https://pragprog.com/book/swdddf/domain-modeling-made-functional]
+- Your script should return the list of periods when Marty meet himself.
+- If you post the most beautiful, clean, DDD, FP code you win the Scott Wlaschin's book : (Domain Modeling Made Functional)[https://pragprog.com/book/swdddf/domain-modeling-made-functional]
 - We keep you posted on twitter an give the name of the winner before 2019-05-17T17:00:00.0000000+02:00
 
 # Marty's timelines
