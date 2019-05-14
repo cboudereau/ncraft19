@@ -5,7 +5,7 @@ Help us to make the best implementation with respect of Domain Driven Design and
 ![BTTF](https://raw.githubusercontent.com/cboudereau/ncrafts19/master/1955.png "BTTF")
 
 # How to participate ?
-- Tweet something with the hashtag **#AccorTechHubBTTF**
+- Tweet something with the hashtags **#AccorTechHubBTTF #newcrafts** 
 - Read the Marty's timelines
 - Fork me!
 - Send a pull request before _2019-05-17T14:00:00+02:00_
