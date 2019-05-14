@@ -12,6 +12,7 @@ Help us to make the best implementation with respect of Domain Driven Design and
 - Your script should return the list of periods when Marty meet himself.
 - If you post the most beautiful, clean, DDD, FP code you win the Scott Wlaschin's book : [Domain Modeling Made Functional](https://pragprog.com/book/swdddf/domain-modeling-made-functional)
 - We will keep you posted on twitter and give the name of the winner before _2019-05-17T17:00:00+02:00_
+- You could join us at stand #6
 
 # Marty's timelines
 Here is (not accurate) timelines of of 1985's Marty and 2015's Marty : 
