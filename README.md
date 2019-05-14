@@ -1,4 +1,4 @@
-# ncraft19 : When Marty McFly could meet himself #BackToTheFuture ?
+# When Marty McFly could meet himself #BackToTheFuture ?
 
 Help us to make the best implementation with respect of Domain Driven Design and Functional programming to find out when did Marty meet himself ?
 
