@@ -15,7 +15,7 @@ Help us to make the best implementation with respect of Domain Driven Design and
 - You could join us at stand #6
 
 # Marty's timelines
-Here is (not accurate) timelines of of 1985's Marty and 2015's Marty : 
+Here is (not accurate) timelines of 1985's Marty and 2015's Marty : 
 
 ## Timeline 1 where 1985's Marty was there
 - 1985-10-21T10:05:00Z -> 1985-10-21T14:05:00Z
